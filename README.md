@@ -1,4 +1,5 @@
-# zkMIPS Private Voting System
+# zkMIPS Private Voting System   
+[Discord](https://discord.com/channels/1125877344972849232/1234942017591578715/1285798113742815263)
 
 ## Overview
 The **zkMIPS Private Voting System** is a secure and anonymous voting platform built using zkMIPS, a MIPS-compatible processor that supports zero-knowledge proofs. This system ensures voter anonymity while maintaining the integrity of the voting process by leveraging zero-knowledge proofs (ZKPs) to tally votes without revealing individual voter information.
